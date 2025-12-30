@@ -3,7 +3,7 @@ import React from 'react'
 const SubsCription = () => {
   return (
     <div>
-      SubsCription
+      SubsCription 
     </div>
   )
 }
